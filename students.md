@@ -10,3 +10,4 @@
 | Keenan | [@kmanpearl](https://github.com/kmanpearl) | [@wayscience] | Breakfast | 
 | Ethan | [@Ecohen1763](https://github.com/Ecohen1763) | Way lab | Sushi |
 | Dayna | [@olsonday](https://github.com/olsonday) | Way Lab | Soup |
+| Shravani |[ssuram1] | Way Lab | Pizza |
